@@ -1,0 +1,15 @@
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\bin\Debug\net6.0\set 2 övning 1.exe
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\bin\Debug\net6.0\set 2 övning 1.deps.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\bin\Debug\net6.0\set 2 övning 1.runtimeconfig.json
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\bin\Debug\net6.0\set 2 övning 1.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\bin\Debug\net6.0\set 2 övning 1.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\obj\Debug\net6.0\set 2 övning 1.csproj.AssemblyReference.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\obj\Debug\net6.0\set 2 övning 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\obj\Debug\net6.0\set 2 övning 1.AssemblyInfoInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\obj\Debug\net6.0\set 2 övning 1.AssemblyInfo.cs
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\obj\Debug\net6.0\set 2 övning 1.csproj.CoreCompileInputs.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\obj\Debug\net6.0\set 2 övning 1.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\obj\Debug\net6.0\refint\set 2 övning 1.dll
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\obj\Debug\net6.0\set 2 övning 1.pdb
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\obj\Debug\net6.0\set 2 övning 1.genruntimeconfig.cache
+C:\Users\Mohameddeg.Abdulahi\Desktop\pr1 prö\set 2 övning 1\obj\Debug\net6.0\ref\set 2 övning 1.dll
